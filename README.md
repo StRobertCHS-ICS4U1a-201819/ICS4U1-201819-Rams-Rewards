@@ -24,5 +24,5 @@ Website for Rams Rewards administrators.  RR Admins will be able to:
 * View charts of rewards activity (by date, by activity)
 
 
-
-
+Invite to The Discord:
+discord.gg/NCytcfU
